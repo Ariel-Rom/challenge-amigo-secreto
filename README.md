@@ -26,7 +26,7 @@ Permite que los usuarios ingresen nombres de amigos en una lista y luego realice
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/Ariel-Rom/challenge-amigo-secreto_esp-main
+   git clone https://github.com/Ariel-Rom/challenge-amigo-secreto
    
 2. Abre el archivo index.html en tu navegador.
 
